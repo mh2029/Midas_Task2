@@ -1,3 +1,5 @@
+## Weights and their description
+
 1. ``point1_88_Resnetv2_.hdf5`` this is the pretrained weight for resnetv2 trained for point1(subtask1) so load this weight into a resnetv2 archotecutre and **preprocess** the image before testing.
 
 2. ``point1_customcnn.hdf5``  if you want to test custom CNN on test dataset
